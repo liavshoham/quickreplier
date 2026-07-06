@@ -66,6 +66,8 @@
 .article-body strong{ color: var(--fg); }
 .article-body a{ color: var(--purple-2); border-bottom: 1px solid rgba(139,124,246,0.3); }
 .article-body a:hover{ border-bottom-color: var(--purple-2); }
+.article-body .btn,
+.article-body .btn:hover{ color: #fff; border-bottom: none; }
 .article-body ul, .article-body ol{
   padding-left: 22px;
   margin-bottom: 18px;
